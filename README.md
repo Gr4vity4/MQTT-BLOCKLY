@@ -1,2 +1,3 @@
 # MQTT-BLOCKLY
-![image info](example.png)
+
+![image info](new-example.png)
